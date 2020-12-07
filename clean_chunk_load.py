@@ -1,6 +1,5 @@
 ##load a csv file, remove commas and quote-encapsulation, replace with a delimiter of your choice
 import pandas as pd
-import pandas as pd
 from getpass import getuser
 
 print('This code will remove commas and quotes and from your .csv file and chunk it to your specifications. ')
